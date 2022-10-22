@@ -10,3 +10,7 @@
 	path = fateflow
 	url = https://github.com/zjzdy/FATE-Flow.git
 	branch = FATE_1.9.0
+[submodule "KubeFATE"]
+	path = KubeFATE
+	url = https://github.com/zjzdy/KubeFATE.git
+	branch = FATE_1.9.0
